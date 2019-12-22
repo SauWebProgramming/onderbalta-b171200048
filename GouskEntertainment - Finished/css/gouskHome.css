@@ -1,0 +1,28 @@
+.white {
+  background: #DCDCDC;  
+}
+
+.size {
+  width: 100%;
+  height: 100%;  
+}
+
+.sizeC {
+  height: 100px;
+  margin: 1%
+}
+
+.sizeIMG {
+	margin: 1.66%;
+	width: 30%;
+	float: left;
+}
+
+.gtag {
+	font-family: 'Alatsi', sans-serif;
+	text-align: center;
+}
+
+.fxf {
+	margin-left: 20px;
+}
